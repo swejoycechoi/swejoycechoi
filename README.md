@@ -7,8 +7,8 @@
 -->
 
 🔭 Software Engineer experienced in Cloud, Systems, and Hardware concepts<br/>
-🌱 Bachelors of Science in Computer Science<br/>
-👯 I’m looking to collaborate on open-source projects on GitHub on my spare time<br/>
+🌱 Bachelors in Computer Science from Polytechnic University in San Juan, PR<br/>
+👯 I’m looking to collaborate on open-source projects on GitHub in my spare time<br/>
 💬 Currently learning about Machine Learning & AI concepts<br/>
 
 ⚡ Working on a #learninginpublic website (link available soon)<br/>

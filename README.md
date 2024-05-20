@@ -6,11 +6,13 @@
 **swejoycechoi/swejoycechoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 Software Engineer experienced in Cloud, Systems, Development, DevOps, and Hardware concepts
-🌱 Bachelors of Science in Computer Science
-👯 I’m looking to collaborate on open-source projects on GitHub on my spare time
-💬 Currently learning about Machine Learning & AI concepts
-📫 Email me at swejoycechoi@gmail.com
-⚡ Working on a #learninginpublic website *live by late May 2024*
+🔭 Software Engineer experienced in Cloud, Systems, and Hardware concepts<br/>
+🌱 Bachelors of Science in Computer Science<br/>
+👯 I’m looking to collaborate on open-source projects on GitHub on my spare time<br/>
+💬 Currently learning about Machine Learning & AI concepts<br/>
+
+⚡ Working on a #learninginpublic website (link available soon)<br/>
+📫 Email me at swejoycechoi@gmail.com<br/>
+
 
 ![Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=swejoycechoi&show_icons=true&theme=cobalt)

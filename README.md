@@ -17,7 +17,7 @@
 🔭 Software Engineer experienced in Cloud, Systems, and Hardware concepts<br>
 🌱 Currently applying to swe jobs in Santa Clara County <br>
 👯 Looking to collaborate on open-source projects on GitHub in my spare time<br>
-💬 Learning about OOP, Machine Learning & AI concepts<br>
+💬 Learning about AWS services and DevOps<br>
 📫 Email me at swejoycechoi@gmail.com<br>
 <!--⚡ Working on a #learninginpublic website (link available soon)<br>-->
 
